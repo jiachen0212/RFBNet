@@ -1,2 +1,0 @@
-按照voc的参数设置跑open_logo_data
-110epoch, MAP=0.3716
